@@ -11,5 +11,6 @@
   <a href="https://twitter.com/Rafaegan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=raeganfaith&style=flat-square&color=blue" alt="Profile View Count"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=raeganfaith&style=flat-square&color=blue" alt="Profile View Count" align="center"/>
+
