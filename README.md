@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/raegan-faith-paguirigan-579828220/)">
+  <a href="https://www.linkedin.com/in/raegan-faith-paguirigan-579828220/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[your-instagram-URL](https://www.instagram.com/rafaegan_/)">
