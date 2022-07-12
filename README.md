@@ -21,6 +21,8 @@
 ---
 
 ### :woman_technologist: About Me :
-I'm a web artisan from Philippines <img src="https://media.giphy.com/media/emLvGusozTtJ9Jn6QA/giphy.gif" width="30" height="15"/>
+I'm a web artisan from Philippines
+- 💻 I'm currently taking BSIT with a specialization in Mobile Web Application in National Univertsity.
+- 📫 You may contact me here: mynameisraeganfaith@hmail.com
 
 
