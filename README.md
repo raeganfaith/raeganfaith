@@ -21,9 +21,10 @@
 ---
 
 ### :woman_technologist: About Me :
-I'm a web artisan from Philippines 🇵🇭
-- 💻 I'm currently taking BSIT with a specialization in Mobile Web Application in National Univertsity.
+I'm a 21 years old web artisan from Philippines
+- 💻 I'm currently taking BSIT with a specialization in Mobile Web Application.
+- 🌱 A 3rd year college student at National University.
 - 📫 You may contact me here: 👉mynameisraeganfaith@hmail.com👈
-- I'm a 21 year old cancer ♋
+
 
 
