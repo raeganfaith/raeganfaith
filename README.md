@@ -28,7 +28,7 @@ I'm a 21 years old web artisan from Philippines
 - 📫 You may contact me here: 👉mynameisraeganfaith@hmail.com👈
 
 ---
-🖥️Languages/🛠️Tools
+### 🖥️Languages/🛠️Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -44,7 +44,7 @@ I'm a 21 years old web artisan from Philippines
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
-⚒️ Softwares:
+### ⚒️ Softwares:
 🧑‍💻Programming Softwares:
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
@@ -59,4 +59,8 @@ I'm a 21 years old web artisan from Philippines
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-plain.svg" title="Maya" alt="Maya" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### 🔥My Status:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raeganfaith&theme=dark&background=000000)](https://git.io/streak-stats)
 
