@@ -21,6 +21,6 @@
 ---
 
 ### :woman_technologist: About Me :
-I'm a web artisan from Philippines <img src="https://media.giphy.com/media/emLvGusozTtJ9Jn6QA/giphy.gif" width="30" height="20" style="padding="0"/>
+I'm a web artisan from Philippines <img src="https://media.giphy.com/media/emLvGusozTtJ9Jn6QA/giphy.gif" width="30" height="30"/>
 
 
