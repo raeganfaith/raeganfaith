@@ -1,8 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif"  width="100"/>
-</div> 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif"  width="100"/>
+  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif"  width="200"/>
 </div> 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/raegan-faith-paguirigan-579828220/">
