@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif"  width="200"/>
 </div> 
+<img src="https://komarev.com/ghpvc/?username=raeganfaith&style=flat-square&color=blue" alt="Profile View Count"/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/raegan-faith-paguirigan-579828220/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
