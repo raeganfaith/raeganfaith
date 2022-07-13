@@ -44,7 +44,7 @@ I'm a 21 years old web artisan from Philippines
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
-### ⚒️ Softwares:
+### ⚒️ Softwares
 🧑‍💻Programming Softwares:
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
@@ -52,7 +52,7 @@ I'm a 21 years old web artisan from Philippines
  <img src="https://github.com/raeganfaith/raeganfaith/blob/main/1_20hS5w0ENZraHIzP0y4lpA.png" title="Eclipse" alt="Eclipse" width="80" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL Server Management" alt="MS SQL Server Management" width="40" height="40"/>&nbsp;
 </div>
-🖌️Creative Softwares
+🖌️Creative Softwares:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" height="40"/>&nbsp;
