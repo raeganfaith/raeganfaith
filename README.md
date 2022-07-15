@@ -44,7 +44,7 @@ I'm a 21 years old web artisan from Philippines
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
-### ⚒️ Softwares
+### ⚒️ Softwares 
 🧑‍💻Programming Softwares:
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
@@ -63,4 +63,4 @@ I'm a 21 years old web artisan from Philippines
 ---
 ### 🔥My Status:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raeganfaith&layout=compact&theme=dracula)](https://git.io/streak-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raeganfaith&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raeganfaith&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
