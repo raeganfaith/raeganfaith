@@ -12,6 +12,9 @@
   <a href="https://twitter.com/Rafaegan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.facebook.com/raeganfaith.paguirigan">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </div>
 
 <div id="counter" align="center">
