@@ -72,4 +72,4 @@ I'm a 21 years old web artisan from Philippines
  
  
 
- <meta name="google-site-verification" content="NWWvKMK8UVrX9XQzweNGBiNiuhIfa0A5iOYRzMpjd48" />
+<meta name="google-site-verification" content="NWWvKMK8UVrX9XQzweNGBiNiuhIfa0A5iOYRzMpjd48" />
