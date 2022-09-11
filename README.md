@@ -1,7 +1,3 @@
-![Header](github-header-image.png)
-
-### Welcome!
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif"  width="200"/>
 </div> 
@@ -24,6 +20,9 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=raeganfaith&style=flat-square&color=blue" alt="Profile View Count"/>
 </div>
+
+---
+![Header](github-header-image.png)
 
 ---
 
