@@ -48,7 +48,7 @@ I'm a 21 years old web artisan from Philippines
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
-### ⚒️ Software 
+### ⚒️ Softwares 
 🧑‍💻Programming Softwares:
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
