@@ -65,9 +65,7 @@ I'm a 21 years old web artisan from Philippines
 </div>
 
 ---
-### 🔥My Status:
+### 🔥My Status:  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raeganfaith&theme=dracula)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raeganfaith&layout=compact&theme=dracula)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raeganfaith&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
- 
-
