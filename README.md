@@ -22,6 +22,7 @@
 </div>
 
 ---
+<div align="center">
 
 ### :woman_technologist: About Me :
 I'm a 21 years old web artisan from Philippines
@@ -30,7 +31,7 @@ I'm a 21 years old web artisan from Philippines
 - 🥇 A consistent Dean's Lister with an Academic Scholarship.
 - 📫 You may contact me here: 👉 mynameisraeganfaith@gmail.com 👈
 - :mega: Visit my site (unfinished): 👉 https://raeganfaith.github.io/ 👈
-
+</div>
 ---
 ### 🖥️Stack/Languages
 <div>
