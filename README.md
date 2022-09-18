@@ -26,10 +26,11 @@
 I'm a 21 years old web artisan from Philippines
   <ul>
 - 💻 I'm currently taking BSIT with a specialization in Mobile Web Application.</li>
-- 🌱 A 3rd year college student at National University.</li>
-- 🥇 A consistent Dean's Lister with an Academic Scholarship.</li>
-- 📫 You may contact me here: 👉 mynameisraeganfaith@gmail.com 👈</li>
-- :mega: Visit my site (unfinished): 👉 https://raeganfaith.github.io/ 👈</li>
+- 🌱 A 3rd year college student at National University.
+- 🥇 A consistent Dean's Lister with an Academic Scholarship.
+- 📫 You may contact me here: 👉 mynameisraeganfaith@gmail.com 👈
+- :mega: Visit my site (unfinished): 👉 https://raeganfaith.github.io/ 👈
+
 ---
 ### 🖥️Stack/Languages
 <div>
