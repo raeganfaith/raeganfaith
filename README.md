@@ -22,18 +22,14 @@
 </div>
 
 ---
-<div align="center">
-
 ### :woman_technologist: About Me :
 I'm a 21 years old web artisan from Philippines
   <ul>
-    <li>💻 I'm currently taking BSIT with a specialization in Mobile Web Application.</li>
-    <li>🌱 A 3rd year college student at National University.</li>
-    <li>🥇 A consistent Dean's Lister with an Academic Scholarship.</li>
-    <li>📫 You may contact me here: 👉 mynameisraeganfaith@gmail.com 👈</li>
-    <li>:mega: Visit my site (unfinished): 👉 https://raeganfaith.github.io/ 👈</li>
-  </ul>
-</div>
+- 💻 I'm currently taking BSIT with a specialization in Mobile Web Application.</li>
+- 🌱 A 3rd year college student at National University.</li>
+- 🥇 A consistent Dean's Lister with an Academic Scholarship.</li>
+- 📫 You may contact me here: 👉 mynameisraeganfaith@gmail.com 👈</li>
+- :mega: Visit my site (unfinished): 👉 https://raeganfaith.github.io/ 👈</li>
 ---
 ### 🖥️Stack/Languages
 <div>
