@@ -28,7 +28,7 @@ I'm a 21 years old web artisan from Philippines
 - 🌱 A 3rd year college student at National University.
 - 🥇 A consistent Dean's Lister with an Academic Scholarship.
 - 📫 You may contact me here: 👉 mynameisraeganfaith@gmail.com 👈
-//- :mega: Visit my site (unfinished): 👉 https://raeganfaith.github.io/ 👈
+
 
 ---
 ### 🖥️Stack/Languages
