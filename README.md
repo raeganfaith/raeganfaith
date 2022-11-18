@@ -31,7 +31,7 @@ I'm a 21 years old web artisan from Philippines
 
 
 ---
-### 🖥️Knowledge:
+### 🖥️Expertise:
 Stack:
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -54,9 +54,8 @@ Package Managers:
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; 
 </div>  
 Hosting Service:
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <div>
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
 ### ⚒️ Softwares: 
