@@ -57,7 +57,7 @@ Hosting Service:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
-### ⚒️ Softwares: 
+### ⚒️ Softwares:    
 🧑‍💻Programming Softwares:
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
