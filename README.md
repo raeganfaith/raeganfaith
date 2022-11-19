@@ -77,5 +77,5 @@ Creative Softwares:
 ---
 ### 🔥My Status:  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raeganfaith&layout=compact&theme=dracula)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raeganfaith&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/raeganfaith=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raeganfaith&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![trophy](https://github-profile-trophy.vercel.app/raeganfaith=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
