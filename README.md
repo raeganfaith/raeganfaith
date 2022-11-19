@@ -75,6 +75,7 @@ Creative Softwares:
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-plain.svg" title="Maya" alt="Maya" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
 ---
