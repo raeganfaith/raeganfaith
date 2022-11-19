@@ -31,8 +31,9 @@ I'm a 21 years old web artisan from Philippines
 
 ---
 ### 🏆Trophies:
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
+</div>
 ---
 ### 🖥️Expertise:
 Stack:
@@ -82,6 +83,8 @@ Creative Softwares:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raeganfaith&layout=compact&theme=dracula)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raeganfaith&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br>
 
----
-![Snake animation](https://github.com/raeganfaith/raeganfaith/blob/output/github-contribution-grid-snake.svg)
 
+---
+<div align="center">
+![Snake animation](https://github.com/raeganfaith/raeganfaith/blob/output/github-contribution-grid-snake.svg)
+</div>
