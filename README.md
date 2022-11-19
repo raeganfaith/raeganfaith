@@ -31,7 +31,7 @@ I'm a 21 years old web artisan from Philippines
 
 ---
 ### 🏆Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=dracula&title=Commits,PullRequest,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 🖥️Expertise:
