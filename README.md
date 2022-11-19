@@ -31,7 +31,7 @@ I'm a 21 years old web artisan from Philippines
 
 ---
 ### 🏆Trophies:
-<div align="center">
+<div id="trophies" align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 ---
@@ -85,6 +85,6 @@ Creative Softwares:
 
 
 ---
-<div align="center">
+<div id="snake" align="center">
 ![Snake animation](https://github.com/raeganfaith/raeganfaith/blob/output/github-contribution-grid-snake.svg)
 </div>
