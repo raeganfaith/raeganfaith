@@ -44,7 +44,6 @@ Front End:
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/></code>&nbsp;
 </div>
 Frameworks/Libraries:
-
 <div>
   <code><img src = "https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/> </code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/></code>&nbsp;
