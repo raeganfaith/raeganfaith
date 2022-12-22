@@ -65,7 +65,6 @@ Hosting Service:
 <div>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/></code>&nbsp;
 </div>
-
 ### ⚒️ Softwares:    
 Programming Softwares:
 <div>
@@ -81,7 +80,6 @@ Creative Softwares:
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-plain.svg" title="Maya" alt="Maya" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/></code>&nbsp;
-  
 </div>
 
 ---
