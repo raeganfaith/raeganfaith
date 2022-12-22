@@ -45,42 +45,42 @@ Front End:
 </div>
 Frameworks/Libraries:
 <div>
-  <code><img src = "https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/> </code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/></code>&nbsp;
+  <code><img src = "https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/> </code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/></code>
 </div>
 Back End:
 <div>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="mysql" alt="mysql" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/></code>&nbsp; 
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="mysql" alt="mysql" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/></code> 
 </div>
 Package Manager:
 <div>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/> </code>&nbsp; 
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/></code>
 </div>  
 Hosting Service:
 <div>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/></code>
 </div>
 
 ### ⚒️ Softwares:    
 Programming Softwares:
 <div>
- <code><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/></code>&nbsp;
- <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/></code>&nbsp;
- <code><img src="https://github.com/raeganfaith/raeganfaith/blob/main/1_20hS5w0ENZraHIzP0y4lpA.png" title="Eclipse" alt="Eclipse" width="80" height="40"/></code>&nbsp;
- <code><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL Server Management" alt="MS SQL Server Management" width="40" height="40"/></code>&nbsp;
+ <code><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/></code>
+ <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/></code>
+ <code><img src="https://github.com/raeganfaith/raeganfaith/blob/main/1_20hS5w0ENZraHIzP0y4lpA.png" title="Eclipse" alt="Eclipse" width="80" height="40"/></code>
+ <code><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL Server Management" alt="MS SQL Server Management" width="40" height="40"/></code>
 </div>
 Creative Softwares:
 <div>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-plain.svg" title="Maya" alt="Maya" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-plain.svg" title="Maya" alt="Maya" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/></code>
 </div>
 
 ---
