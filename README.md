@@ -69,8 +69,8 @@ Hosting Service:
 ### ⚒️ Softwares:    
 Programming Softwares:
 <div>
- <code><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/></code>
  <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/></code>
+ <code><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/></code>
  <code><img src="https://github.com/raeganfaith/raeganfaith/blob/main/1_20hS5w0ENZraHIzP0y4lpA.png" title="Eclipse" alt="Eclipse" width="80" height="40"/></code>
  <code><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL Server Management" alt="MS SQL Server Management" width="40" height="40"/></code>
 </div>
