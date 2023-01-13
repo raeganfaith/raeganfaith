@@ -87,7 +87,7 @@ Creative Softwares:
 ### 🔥My Status:  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raeganfaith&layout=compact&theme=dracula)](https://git.io/streak-stats) <br>
 [![Raegan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/username=raeganfaith&layout=compact&theme=dracula)]
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raeganfaith&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ![Snake animation](https://github.com/raeganfaith/raeganfaith/blob/output/github-contribution-grid-snake.svg)
