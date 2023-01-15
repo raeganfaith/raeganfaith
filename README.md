@@ -85,7 +85,7 @@ Creative Softwares:
 
 ---
 ### 🔥My Status:  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raeganfaith&layout=compact&theme=dracula)](https://git.io/streak-stats) <br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raeganfaith&layout=compact&theme=dracula) <br>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raeganfaith&layout=compact&theme=dracula)
 
 ---
