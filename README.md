@@ -92,4 +92,3 @@ Creative Softwares:
 
 ---
 ![Snake animation](https://github.com/raeganfaith/raeganfaith/blob/output/github-contribution-grid-snake.svg)
-
