@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instragram Badge"/>
   </a>
   <a href="https://www.researchgate.net/profile/Raegan-Faith-Paguirigan">
-    <img src="https://img.shields.io/badge/ResearchGate-white?style=for-the-badge&logo=instagram&logoColor=white" alt="Instragram Badge"/>
+    <img src="https://img.shields.io/badge/ResearchGate-white?style=for-the-badge&logo=researchgate&logoColor=black" alt="ResearchGate Badge"/>
   </a>
 </div>
 
