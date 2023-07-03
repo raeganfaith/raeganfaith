@@ -31,7 +31,7 @@
 ### :woman_technologist: About Me :
 I'm a 21 years old web artisan from Philippines
 - 💻 I'm currently taking BSIT with a specialization in Mobile Web Application.</li>
-- 🌱 A 3rd year college student at National University.
+// - 🌱 A 3rd year college student at National University.
 - 🥇 A consistent Dean's Lister with an Academic Scholarship.
 - 📫 You may contact me here: 👉 https://www.linkedin.com/in/raegan-faith-paguirigan-579828220/ 👈
 
