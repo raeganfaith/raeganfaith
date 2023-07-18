@@ -26,10 +26,3 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=raeganfaith&style=flat-square&color=blue" alt="Profile View Count"/>
 </div>
-
----
-### 🏆Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=dracula&title=Commits,PullRequest,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-![Snake animation](https://github.com/raeganfaith/raeganfaith/blob/output/github-contribution-grid-snake.svg)
