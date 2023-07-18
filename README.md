@@ -32,9 +32,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=dracula&title=Commits,PullRequest,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-### 🔥My Status:  
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raeganfaith&layout=compact&theme=dracula) <br>
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raeganfaith&layout=compact&theme=dracula)
-
----
 ![Snake animation](https://github.com/raeganfaith/raeganfaith/blob/output/github-contribution-grid-snake.svg)
