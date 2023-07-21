@@ -3,6 +3,9 @@
 </div> 
 
 <div id="badges" align="center">
+  <a href="https://www.researchgate.net/profile/Raegan-Faith-Paguirigan">
+    <img src="https://img.shields.io/badge/ResearchGate-white?style=for-the-badge&logo=researchgate&logoColor=black" alt="ResearchGate Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/raegan-faith-paguirigan-579828220/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,9 +20,6 @@
   </a>
   <a href="https://www.instagram.com/rafaegan_/">
     <img src="https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instragram Badge"/>
-  </a>
-  <a href="https://www.researchgate.net/profile/Raegan-Faith-Paguirigan">
-    <img src="https://img.shields.io/badge/ResearchGate-white?style=for-the-badge&logo=researchgate&logoColor=black" alt="ResearchGate Badge"/>
   </a>
 </div>
 
