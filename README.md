@@ -28,14 +28,6 @@
 </div>
 
 ---
-### :woman_technologist: About Me :
-I'm a 21 years old web artisan from Philippines
-- 💻 I'm currently taking BSIT with a specialization in Mobile Web Application.</li>
-
-- 🥇 A consistent Dean's Lister with an Academic Scholarship.
-- 📫 You may contact me here: 👉 https://www.linkedin.com/in/raegan-faith-paguirigan-579828220/ 👈
-
----
 ### 🏆Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=dracula&title=Commits,PullRequest,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -95,5 +87,3 @@ Creative Softwares:
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raeganfaith&layout=compact&theme=dracula) <br>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raeganfaith&layout=compact&theme=dracula)
 
----
-![Snake animation](https://github.com/raeganfaith/raeganfaith/blob/output/github-contribution-grid-snake.svg)
