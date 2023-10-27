@@ -96,4 +96,4 @@ Creative Softwares:
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raeganfaith&layout=compact&theme=dracula)
 
 ---
-![Snake animation](https://github.com/raeganfaith/raeganfaith/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/raeganfaith/raeganfaith/blob/output/github-contribution-grid-snake.svg) 
