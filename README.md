@@ -28,12 +28,13 @@
 </div>
 
 ---
-<div id="counter" style="text-align: center;">
+<p align="center">
   <h3>🏆 Trophies:</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=dracula&title=Commits,PullRequest,Followers,Repositories" alt="trophy">
   </a>
-</div>
+</p>
+
 
 
 ---
