@@ -28,11 +28,13 @@
 </div>
 
 ---
-<div id="counter" align="center">
- ### 🏆Trophies:
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=dracula&title=Commits,PullRequest,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+<div id="counter" style="text-align: center;">
+  <h3>🏆 Trophies:</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=dracula&title=Commits,PullRequest,Followers,Repositories" alt="trophy">
+  </a>
 </div>
+
 
 ---
 ### 🖥️Expertise:
