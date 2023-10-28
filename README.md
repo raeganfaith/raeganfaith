@@ -27,7 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=raeganfaith&style=flat-square&color=blue" alt="Profile View Count"/>
 </div>
 
----
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=dracula&title=Commits,PullRequest,Followers,Repositories" alt="trophy">
 </div>
