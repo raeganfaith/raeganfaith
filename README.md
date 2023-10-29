@@ -45,7 +45,7 @@
       <br>Angular
     </td>
     <td align="center" width="96">
-      <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>
+      <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
       <br>Laravel
     </td>
     <td align="center" width="96">
@@ -53,11 +53,11 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-      <br>Tailwind
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind CSS" width="40" height="40"/>
+      <br>Tailwind CSS
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>
       <br>Sass
     </td>
     <td align="center" width="96">
@@ -65,19 +65,19 @@
       <br>Flutter
     </td>
     <td align="center" width="96"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>
       <br>Github
     </td>
     <td align="center" width="96"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
       <br>Git
     </td>
     <td align="center"  width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
       <br>VsCode
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>
       <br>Npm
     </td>
   </tr>
