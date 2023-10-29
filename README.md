@@ -30,7 +30,7 @@
 ---
 
 
-<h2 align="left">Favorite Stack</h2>
+<h2 align="left">Favorite Techs</h2>
 
 > Tools, languages, and other things that I like to work with.
 
