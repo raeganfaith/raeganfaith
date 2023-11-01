@@ -32,7 +32,7 @@
 
 <h2 align="left">Favorite Techs</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, frameworks, and other things that I like to work with.
 
 <table>
   <tr>
