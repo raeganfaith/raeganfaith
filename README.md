@@ -95,7 +95,7 @@
 - 💻 &nbsp;You may contact me here: [linkedin] 
   
 <h2 align="left">Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=onedark&no-bg=true&rank=A" height="150" align="center"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=onedark&no-bg=true&rank=A" align="center"/>
 
 
 <!-- links -->
