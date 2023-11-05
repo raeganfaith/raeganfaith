@@ -99,9 +99,5 @@
 
 
 <!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
 [linkedin]: https://www.linkedin.com/in/raegan-faith-paguirigan-579828220/ "Raegan Faith LinkedIn"
-[project]: # "Current Project"
 [resume]: https://raeganfaith.github.io/Resume/ "My Resume"
