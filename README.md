@@ -27,7 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=raeganfaith&style=flat-square&color=blue" alt="Profile View Count"/>
 </div>
 
----
 
 
 <h2 align="left">Favorite Techs</h2>
