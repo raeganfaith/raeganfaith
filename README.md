@@ -88,7 +88,6 @@
 </a>
 
 - :office: &nbsp;I'm currently taking BSIT with a specialization in Mobile Web Application.
-- :seedling: &nbsp;A consistent Dean's Lister with an Academic Scholarship.
 - 👀 &nbsp;Check my [resume] 
 - 🕙 &nbsp;Recent project I'm working on:
 - 💻 &nbsp;You may contact me here: [linkedin] 
