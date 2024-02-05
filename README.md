@@ -88,7 +88,7 @@
 </a>
 
 - :office: &nbsp;I'm currently taking BSIT with a specialization in Mobile Web Application.
-- 👀 &nbsp;Check my [resume] 
+- 👀 &nbsp;Check my  
 - 🕙 &nbsp;Recent project I'm working on:
 - 💻 &nbsp;You may contact me here: [linkedin] 
   
