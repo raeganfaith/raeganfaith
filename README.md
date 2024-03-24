@@ -44,7 +44,7 @@
       <br>Angular
     </td>
     <td align="center" width="96">
-      <img src = "https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
+      <img src = "https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
       <br>Laravel
     </td>
     <td align="center" width="96">
