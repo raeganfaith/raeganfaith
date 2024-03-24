@@ -44,7 +44,7 @@
       <br>Angular
     </td>
     <td align="center" width="96">
-      <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
+      <img src = "https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
       <br>Laravel
     </td>
     <td align="center" width="96">
@@ -52,7 +52,7 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind CSS" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind CSS" width="40" height="40"/>
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
