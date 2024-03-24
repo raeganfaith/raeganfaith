@@ -87,8 +87,10 @@
    <img src="https://streak-stats.demolab.com?user=raeganfaith&theme=onedark&background=EBEBEB00" height="150" alt="streak graph"  align="right"/>
 </a>
 
-- :office: &nbsp;I'm currently taking BSIT with a specialization in Mobile Web Application.
-- 💻 &nbsp;You may contact me here: [linkedin] 
+> More Info:
+- 🏢 &nbsp;I'm currently taking BSIT with a specialization in Mobile Web Application. 
+- 💻 &nbsp;You may contact me here: [linkedin]
+
   
 <h2 align="left">Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=onedark&no-bg=true&rank=A" align="center"/>
