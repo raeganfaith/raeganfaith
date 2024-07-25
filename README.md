@@ -95,7 +95,6 @@
 <h2 align="left">Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=onedark&no-bg=true&rank=A" align="center"/>
 
-
 <!-- links -->
 [linkedin]: https://www.linkedin.com/in/raegan-faith-paguirigan-579828220/ "Raegan Faith LinkedIn"
 [resume]: https://raeganfaith.github.io/Resume/ "My Resume"
