@@ -29,7 +29,7 @@
 
 
 
-<h2 align="left">🖤 FAVORITE TECHNOLOGIES</h2>
+<h2 align="left">FAVORITE TECHNOLOGIES</h2>
 
 <table class=""no-scrollbar>
   <tr>
@@ -110,7 +110,7 @@
 - 💻 &nbsp;You may contact me here: [linkedin]
 
 
-<h2 align="left"> 🏆 TROPHIES</h2>
+<h2 align="left">TROPHIES</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=onedark&no-bg=true&rank=A,AA,AAA,S,SS,SSS,SECRET" align="center"/>
 
 <!-- links -->
