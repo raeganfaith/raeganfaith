@@ -1,3 +1,10 @@
+<style>
+  .no-scrollbar {
+    overflow-x: hidden;
+    white-space: nowrap;
+  }
+</style>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif"  width="200"/>
 </div> 
@@ -31,7 +38,7 @@
 
 <h2 align="left">🖤 FAVORITE TECHNOLOGIES</h2>
 
-<table>
+<table class=""no-scrollbar>
   <tr>
     <td align="center" valign="top">
       <table>
@@ -79,7 +86,7 @@
       <table>
         <i>Package Manager</i>
         <tr>
-          <td align="center" width="90">
+          <td align="center" width="50">
             <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>
             <br>NPM
           </td>
