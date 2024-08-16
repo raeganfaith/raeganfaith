@@ -79,7 +79,7 @@
       <table>
         <i>Package Manager</i>
         <tr>
-          <td align="center" width="50">
+          <td align="center" width="90">
             <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>
             <br>NPM
           </td>
