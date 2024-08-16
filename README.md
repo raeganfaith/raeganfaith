@@ -77,7 +77,7 @@
     </td>
     <td align="center" valign="top">
       <table>
-        <i>PM</i>
+        <i>Package Manager</i>
         <tr>
           <td align="center" width="50">
             <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>
