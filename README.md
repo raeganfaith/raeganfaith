@@ -29,72 +29,91 @@
 
 
 
-<h2 align="left">Favorite Techs</h2>
-
-> Tools, frameworks, and other things that I like to work with.
+<h2 align="left">🖤 FAVORITE TECHNOLOGIES</h2>
 
 <table>
   <tr>
-    <td align="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>
-      <br>ReactJS
+    <td align="center" valign="top">
+      <table>
+        <i>Stack</i>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+            <br>MongoDB
+          </td>
+          <td align="center" width="96">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
+            <br>ExpressJS
+          </td>
+          <td align="center" width="96">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+            <br>ReactJS
+          </td>
+          <td align="center" width="96">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+            <br>NodeJS
+          </td>
+        </tr>
+      </table>
     </td>
-    <td align="center" width="96">
-      <img src = "https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>
-      <br>Angular
+    <td align="center" valign="top">
+      <table>
+        <i>CSS Frameworks and Library</i>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>
+            <br>MaterialUI
+          </td>
+          <td align="center" width="96">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind CSS" width="40" height="40"/>
+            <br>Tailwind
+          </td>
+          <td align="center" width="96">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+            <br>Bootstrap
+          </td>
+        </tr>
+      </table>
     </td>
-    <td align="center" width="96">
-      <img src = "https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
-      <br>Laravel
+    <td align="center" valign="top">
+      <table>
+        <i>Package Manager</i>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="50" height="40"/>
+            <br>NPM
+          </td>
+        </tr>
+      </table>
     </td>
-    <td align="center" width="96">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind CSS" width="40" height="40"/>
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
-      <br>Flutter
-    </td>
-    <td align="center" width="96"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
-      <br>VsCode
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>
-      <br>Npm
+    <td align="center" valign="top">
+      <table>
+        <i>IDE</i>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCOde" alt="VSCode" width="50" height="40"/>
+            <br>VSCode
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
-
 
 <a href="#">
    <img src="https://streak-stats.demolab.com?user=raeganfaith&theme=onedark&background=EBEBEB00" height="150" alt="streak graph"  align="right"/>
 </a>
 
-> More Info:
-- 🏢 &nbsp;I'm currently taking BSIT with a specialization in Mobile Web Application. 
+> Additional Details:
+- 🏢 &nbsp;I'm currently taking BSIT with a specialization in Mobile Web Application.
+- 🖌️ &nbsp;Check my creative projects here: [behance]
 - 💻 &nbsp;You may contact me here: [linkedin]
 
-  
-<h2 align="left">Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=onedark&no-bg=true&rank=A" align="center"/>
+
+<h2 align="left"> 🏆 TROPHIES</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=onedark&no-bg=true&rank=A,AA,AAA,S,SS,SSS,SECRET" align="center"/>
 
 <!-- links -->
 [linkedin]: https://www.linkedin.com/in/raegan-faith-paguirigan-579828220/ "Raegan Faith LinkedIn"
 [resume]: https://raeganfaith.github.io/Resume/ "My Resume"
+[behance]: https://www.behance.net/raeganpaguiri "Raegan Faith Behance"
