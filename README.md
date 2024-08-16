@@ -37,19 +37,19 @@
       <table>
         <i>Stack</i>
         <tr>
-          <td align="center" width="96">
+          <td align="center" width="40">
             <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
             <br>MongoDB
           </td>
-          <td align="center" width="96">
+          <td align="center" width="40">
             <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
             <br>ExpressJS
           </td>
-          <td align="center" width="96">
+          <td align="center" width="40">
             <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
             <br>ReactJS
           </td>
-          <td align="center" width="96">
+          <td align="center" width="40">
             <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
             <br>NodeJS
           </td>
@@ -60,15 +60,15 @@
       <table>
         <i>CSS Frameworks and Library</i>
         <tr>
-          <td align="center" width="96">
+          <td align="center" width="40">
             <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>
             <br>MaterialUI
           </td>
-          <td align="center" width="96">
+          <td align="center" width="40">
             <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind CSS" width="40" height="40"/>
             <br>Tailwind
           </td>
-          <td align="center" width="96">
+          <td align="center" width="40">
             <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
             <br>Bootstrap
           </td>
@@ -77,10 +77,10 @@
     </td>
     <td align="center" valign="top">
       <table>
-        <i>Package Manager</i>
+        <i>PM</i>
         <tr>
-          <td align="center" width="96">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="50" height="40"/>
+          <td align="center" width="50">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>
             <br>NPM
           </td>
         </tr>
@@ -90,8 +90,8 @@
       <table>
         <i>IDE</i>
         <tr>
-          <td align="center" width="96">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCOde" alt="VSCode" width="50" height="40"/>
+          <td align="center" width="40">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCOde" alt="VSCode" width="40" height="40"/>
             <br>VSCode
           </td>
         </tr>
