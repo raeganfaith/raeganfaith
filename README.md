@@ -105,7 +105,7 @@
 </a>
 
 > Additional Details:
-- 🖥️ &nbsp;Graduated with a degree in BSIT, specializing in Mobile Web Application Development
+- 🖥️ &nbsp;BSIT graduate specializing in Mobile Web Application Development
 - 🖌️ &nbsp;Check my creative projects here: [behance]
 - 💻 &nbsp;You may contact me here: [linkedin]
 
