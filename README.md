@@ -105,7 +105,7 @@
 </a>
 
 > Additional Details:
-- 🏢 &nbsp;I'm currently taking BSIT with a specialization in Mobile Web Application.
+- 🖥️ &nbsp;I have a degree in BSIT with a specialization in Mobile Web Application Development.
 - 🖌️ &nbsp;Check my creative projects here: [behance]
 - 💻 &nbsp;You may contact me here: [linkedin]
 
