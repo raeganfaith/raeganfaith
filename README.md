@@ -107,7 +107,7 @@
 > Additional Details:
 - 🖥️ &nbsp;BSIT graduate specialized in Mobile and Web Application
 - 🖌️ &nbsp;Check my creative projects here: [behance]
-- 💻 &nbsp;You may contact me here: [linkedin]
+- 📞 &nbsp;You may contact me here: [linkedin]
 
 
 <h2 align="left">TROPHIES</h2>
