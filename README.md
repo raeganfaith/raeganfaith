@@ -111,7 +111,7 @@
 
 
 <h2 align="left">TROPHIES</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=onedark&no-bg=true&rank=A,AA,AAA,S,SS,SSS,SECRET" height="150" align="center"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=raeganfaith&theme=onedark&no-bg=true&rank=A,AA,AAA,S,SS,SSS,SECRET" align="center"/>
 
 <!-- links -->
 [linkedin]: https://www.linkedin.com/in/raegan-faith-paguirigan-579828220/ "Raegan Faith LinkedIn"
