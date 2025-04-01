@@ -116,4 +116,4 @@
 <!-- links -->
 [linkedin]: https://www.linkedin.com/in/raegan-faith-paguirigan-579828220/ "Raegan Faith LinkedIn"
 [resume]: https://raeganfaith.github.io/Resume/ "My Resume"
-[behance]: https://www.behance.net/raeganpaguiri "Raegan Faith Behance"
+[behance]: https://www.behance.net/raeganpaguirigan "Raegan Faith Behance"
